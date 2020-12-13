@@ -20,3 +20,4 @@ cache/*
 # any IDE files
 .idea/
 .vscode/
+/openmaptiles-singletrailmap.iml
